@@ -2,6 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageId>GoodEvening.WebApi.Common</PackageId>
+        <Authors>GoodEvening</Authors>
+        <Description>common features for web api, exception handling, business rule exception, ef query extensions, ef query dynamic sorting, ef query pagination</Description>
+        <PackageProjectUrl>https://github.com/OlehOpalinskyi/Packages/tree/main/WebApi.Common</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/OlehOpalinskyi/Packages/tree/main/WebApi.Common</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
