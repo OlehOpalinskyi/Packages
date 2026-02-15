@@ -1,4 +1,4 @@
-namespace DomainEntity.SeedWork
+namespace DomainEntity.Abstractions
 {
     public interface IAggregateRoot { }
 }

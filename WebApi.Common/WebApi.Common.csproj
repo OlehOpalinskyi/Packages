@@ -7,6 +7,7 @@
         <Description>common features for web api, exception handling, business rule exception, ef query extensions, ef query dynamic sorting, ef query pagination</Description>
         <PackageProjectUrl>https://github.com/OlehOpalinskyi/Packages/tree/main/WebApi.Common</PackageProjectUrl>
         <RepositoryUrl>https://github.com/OlehOpalinskyi/Packages/tree/main/WebApi.Common</RepositoryUrl>
+        <Version>2.0.0</Version>
     </PropertyGroup>
 
     <ItemGroup>
